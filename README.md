@@ -33,6 +33,18 @@ pip3 install -r requirements.txt
 
 ### Detecting and commanding to get down:
 
+
+https://user-images.githubusercontent.com/110551998/190912843-02e324f9-c861-4ad8-908b-aef1e7b0a64f.mp4
+
 ### Distinguishing if the pet is by the couch and not on it:
 
+
+
+https://user-images.githubusercontent.com/110551998/190912904-c5a6c568-e695-40e1-b8a3-c672b1e2a654.mp4
+
+
 ### Detecting from different angels:
+
+
+https://user-images.githubusercontent.com/110551998/190912987-cd47c8b5-5004-4248-9f1d-9a6e042aff67.mp4
+
